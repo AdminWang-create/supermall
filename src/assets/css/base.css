@@ -15,10 +15,10 @@
 /*:root -> 获取根元素html*/
 
 :root {
-    --color-text: #666;
+    --color-text: #666666;
     --color-high-text: #ff5777;
     --color-tint: #ff8198;
-    --color-background: #fff;
+    --color-background: rgba(198, 13, 13, 0);
     --font-size: 14px;
     --line-height: 1.5;
 }
