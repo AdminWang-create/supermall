@@ -30,8 +30,8 @@
 </template>
 
 <script>
-  import Tabbar from "./components/common/Tabbar";
-  import TabBarItem from "./components/common/TabBarItem";
+  import Tabbar from "./components/common/tabbar/Tabbar";
+  import TabBarItem from "./components/common/tabbar/TabBarItem";
 
 export default {
   name: 'App',

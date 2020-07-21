@@ -21,7 +21,7 @@ body{
     text-align: center;
     font-size: 15px;
 }
-img{
+.tab-bar-item img{
     width: 24px;
     height: 24px;
     margin-top: 3px;
